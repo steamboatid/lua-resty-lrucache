@@ -1,0 +1,5 @@
+lua-resty-lrucache (0.10-1chl1~bionic1) bionic; urgency=medium
+
+  * Initial packaging.
+
+ -- Chris Lea <chris.lea@gmail.com>  Mon, 17 Aug 2020 19:30:07 -0700
